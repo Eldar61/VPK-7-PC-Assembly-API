@@ -1,0 +1,4 @@
+build:
+  dockerfile: src/PcAssembly.Api/Dockerfile
+run:
+  containerPort: 8080
